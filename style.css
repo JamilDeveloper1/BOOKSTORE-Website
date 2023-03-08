@@ -693,3 +693,22 @@ color: var(--black);
     font-size: 50%;
   }
 }
+
+
+
+
+
+#btn-shop-login{
+  height: 38.37px;
+  color: #fff;
+  background: var(--green);
+  font-size: 1.5rem;
+}
+
+#btn-shop-login:hover{
+  background: var(--dark-color);
+}
+
+
+
+
