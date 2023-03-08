@@ -641,10 +641,6 @@ color: var(--black);
     padding-bottom: 6rem;
   }
 
-#none{
-  display:none;
-  }
-
   .header .header-2{
     display: none;
   }
